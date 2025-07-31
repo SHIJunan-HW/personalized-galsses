@@ -35,15 +35,6 @@ The pre-trained model files required to run the application can be downloaded fr
     *   Select a glasses style from the provided CSV (`glasses_styles.csv`) or input a style code.
     *   The model will generate an image of you wearing the selected glasses.
 
-## Files Included
-
-*   `GlassesGAN_release/`: Core code adapted from the original GlassesGAN repository.
-*   `Glasses_Try_on_App_demo_V2.ipynb`: Jupyter notebook for running the demo application.
-*   `glasses_styles.csv`: CSV file containing available glasses style information.
-*   `show.py`: Utility script (purpose might vary, check the code).
-*   `SDSC6002.pdf`, `proposal.pdf`, `Glasses Recommendation.pdf`: Project documentation and reports.
-*   `*.npy`, `*.joblib`: Pre-computed results or data files.
-
 ## License
 
 The license for the core GlassesGAN code should be checked in the original repository ([https://github.com/pleshro/GlassesGAN_release](https://github.com/pleshro/GlassesGAN_release)). Any additional code or modifications in this repository are provided under the terms specified in the `LICENSE` file (if present).
