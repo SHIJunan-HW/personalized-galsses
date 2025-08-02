@@ -12,11 +12,6 @@ The core code for the glasses try-on functionality is adapted from the excellent
 *   **Original Repository:** [https://github.com/pleshro/GlassesGAN_release#](https://github.com/pleshro/GlassesGAN_release#)
 *   Please refer to the original repository for detailed methodology, model architecture, and specific instructions related to the core GAN implementation.
 
-## Prerequisites
-
-1.  **Python Environment:** Ensure you have Python installed (e.g., via Anaconda or directly).
-2.  **Required Libraries:** Install the necessary Python packages. Typically, you'll need libraries like `torch`, `torchvision`, `numpy`, `Pillow`, `jupyter`, `scikit-learn`, etc. Check the original GlassesGAN repository for the exact requirements.
-3.  **Pre-trained Models:** Download the required pre-trained model files (e.g., `e4e_ffhq_encode.pt`, `deeplab_epoch_19.pth`) and place them in the appropriate directory within `GlassesGAN_release/`.
 
 ## Pre-trained Models
 
@@ -38,3 +33,4 @@ The pre-trained model files required to run the application can be downloaded fr
 ## License
 
 The license for the core GlassesGAN code should be checked in the original repository ([https://github.com/pleshro/GlassesGAN_release](https://github.com/pleshro/GlassesGAN_release)). Any additional code or modifications in this repository are provided under the terms specified in the `LICENSE` file (if present).
+<img width="884" height="697" alt="interface" src="https://github.com/user-attachments/assets/6a727f59-a1d4-45ac-a9dd-2260acecf382" />
